@@ -169,7 +169,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Contact
 
-Your Name - apturkhade@gmail.com
+ Email - apturkhade@gmail.com
 
 Project Link: https://github.com/Akash79665/weather-app.git
 
