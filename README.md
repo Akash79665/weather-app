@@ -145,13 +145,13 @@ weather-app/
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](screenshots/main-interface.png)
+![Main Interface](screenshots/Main%20Interface.png)
 
 ### Weather Display
-![Weather Display](screenshots/weather-display.png)
+![Weather Display](screenshots/Weather%20Display.png)
 
 ### Mobile View
-![Mobile View](screenshots/mobile-view.png)
+![Mobile View](screenshots/Mobile%20View.png)
 
 ## 🤝 Contributing
 
