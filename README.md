@@ -62,7 +62,7 @@ Enter any city name to get real-time weather information including:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/Akash79665/weather-app.git
 cd weather-app
 ```
 
@@ -169,9 +169,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Contact
 
-Your Name - your.email@example.com
+Your Name - apturkhade@gmail.com
 
-Project Link: [https://github.com/yourusername/weather-app](https://github.com/yourusername/weather-app)
+Project Link: https://github.com/Akash79665/weather-app.git
 
 ## 🙏 Acknowledgments
 
